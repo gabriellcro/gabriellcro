@@ -1,10 +1,10 @@
-## Sobre Mim
+## About me
 
-Olá! Me chamo Gabriel Oliveira, tenho 32 anos e sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, estou focado em Desenvolvimento Web, evoluindo minhas habilidades com as tecnologias React e Node.js.
+My name is Gabriel Oliveira, I'm 32 years old and I have a degree in Systems Analysis and Development. I'm currently focused on Web Development, developing my skills with React and Node.js technologies.
 
-Estou em busca da minha primeira oportunidade na área de tecnologia. Quero contribuir com o time, aprender com os desafios do dia a dia e crescer como desenvolvedor.
+I'm looking for my first opportunity in technology. I want to contribute to the team, learn from the day-to-day challenges and grow as a developer.
 
-## Tecnologias
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-212121?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-212121?style=flat&logo=CSS3&logoColor=1572B6)
