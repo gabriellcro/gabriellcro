@@ -1,4 +1,4 @@
-## About me
+## About
 
 My name is Gabriel Oliveira, I'm 32 years old and I have a degree in Systems Analysis and Development. I'm currently focused on Web Development, developing my skills with React and Node.js technologies.
 
